@@ -1,0 +1,7 @@
+discord.py
+yt-dlp
+aiohttp
+lyricsgenius
+google-genai
+python-dotenv
+pillow
